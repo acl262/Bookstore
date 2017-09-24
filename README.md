@@ -1,2 +1,2 @@
 # Bookstore
-# Bookstore - an E-Commerce website
+Bookstore - an E-Commerce website
